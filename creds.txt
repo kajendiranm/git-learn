@@ -1,2 +1,0 @@
-username = kaja
-password = mk03
